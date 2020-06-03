@@ -1,0 +1,10 @@
+.DS_Store
+
+# node modules
+node_modules
+
+# .env
+.env
+
+# all json file from config folder
+src/config/*.json
